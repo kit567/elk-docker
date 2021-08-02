@@ -14,7 +14,6 @@ Folder structure example:
 >>>>*es02.crt*
 >>>>*es02.key*
 >>>**kib01**
-      ...
 >>**conf**
 >>>*logstash.conf*
 >>>*logstash.yml*
