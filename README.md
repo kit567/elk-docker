@@ -6,8 +6,8 @@ create-certs.yml - Файл создает сертификаты на нод с
 
 Folder structure example:
 .
-|=__**certs**
-|=       |=__**es01**
+*__**certs**
+|   * **es01**
 |=       |=      |=_*es01.crt*
 |=       |=      |=_*es01.key*
 |=       |=__**es02**
