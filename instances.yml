@@ -1,0 +1,21 @@
+instances:
+  - name: "os01" 
+    dns: 
+      - "os01.sec.local"
+    filename: "os01" 
+  - name: "os02"
+    dns: 
+      - "os02.sec.local"
+    filename: "os02" 
+  - name: "os03"
+    dns: 
+      - "os03.sec.local"
+    filename: "os03" 
+  - name: "kib01"
+    dns: 
+      - "kib01.sec.local"
+    filename: "kib01" 
+  - name: "logstash01"
+    dns: 
+      - "logstash01.sec.local"
+    filename: "logstash01" 
