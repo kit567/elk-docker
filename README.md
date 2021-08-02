@@ -6,14 +6,14 @@ create-certs.yml - Файл создает сертификаты на нод с
 
 Folder structure example:
 .
-|__**certs**
-|       |__**es01**
-|       |      |_*es01.crt*
-|       |      |_*es01.key*
-|       |__**es02**
-|       |      |_*es02.crt*
-|       |      |_*es02.key*
-|       |__**kib01**
+||__**certs**
+||       ||__**es01**
+||       ||      ||_*es01.crt*
+||       ||      ||_*es01.key*
+||       ||__**es02**
+||       ||      ||_*es02.crt*
+||       ||      ||_*es02.key*
+||       ||__**kib01**
 |        ...
 |__**conf**
 |       |_*logstash.conf*
