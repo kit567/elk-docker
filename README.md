@@ -10,11 +10,15 @@ Folder structure example:
 >>>**es01**
 >>>>*es01.crt*
 >>>>*es01.key*
+>>>
 >>>**es02**
 >>>>*es02.crt*
 >>>>*es02.key*
+>>>
 >>>**kib01**
+>>
 >>**conf**
 >>>*logstash.conf*
 >>>*logstash.yml*
+>
 >*docker-compose.yml*
